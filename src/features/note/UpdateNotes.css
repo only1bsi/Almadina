@@ -1,0 +1,52 @@
+/* UpdateNotes.css */
+
+/* Styles for the outer container */
+
+/* Styles for the table container */
+.table-container {
+  margin-top: 20px;
+  margin-left: 220px;
+}
+
+/* Styles for the table */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  font-family: Arial, sans-serif; /* Change the font as needed */
+}
+
+/* Styles for table header */
+.table-head th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+  padding: 12px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+/* Styles for table body */
+.table-body td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+/* Styles for buttons */
+.btn {
+  padding: 6px 12px;
+  font-size: 14px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  color: #fff;
+  border: 1px solid #007bff;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  color: #fff;
+  border: 1px solid #dc3545;
+}
+
+/* Add more specific styles as needed */

@@ -1,0 +1,138 @@
+.CreateBookingForm {
+    background: white;
+    border-radius: 5px;
+    padding: 14px;
+    min-width: 800px;
+    max-width: 1200px;
+}
+
+/* Row 1  */
+.CreateBookingForm .form .row-1 {
+    display: flex;
+  }
+  
+  .CreateBookingForm .form .row-1 .input-field {
+      flex: 2;
+      padding-left: 10px;
+      width: 30%;
+  }
+  
+  .CreateBookingForm .form .row-1 .input-field:nth-child(1) .input-box input {
+    width: 500px;
+    height: 30px;
+  }
+  .CreateBookingForm .form .row-1 .input-field:nth-child(2) .input-box input {
+      width: 500px;
+      height: 30px;
+    }
+    .CreateBookingForm .form .row-1 .input-field:nth-child(3) .input-box input {
+      width: 500px;
+      height: 30px;
+    }
+  .CreateBookingForm .form .row-1 .input-field .input-box .icon {
+     width: 500px;
+    height: 30px;
+  }
+  
+  .CreateBookingForm .form .row-1 .input-box {
+      padding: 5px 0px;
+      border-radius: 5px;
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+  }
+
+/* Row 1  */
+
+
+
+
+
+/* Row 2  */
+
+.CreateBookingForm .form .row-2 {
+    display: flex;
+  }
+
+.CreateBookingForm .form .row-2 .input-field {
+    flex: 2;
+    padding-left: 10px;
+    width: 30%;
+}
+
+.CreateBookingForm .form .row-2 .input-field:nth-child(1) .input-box input {
+  width: 500px;
+  height: 30px;
+}
+.CreateBookingForm .form .row-2 .input-field:nth-child(2) .input-box input {
+    width: 500px;
+    height: 30px;
+  }
+  .CreateBookingForm .form .row-2 .input-field:nth-child(3) .input-box input {
+    width: 500px;
+    height: 30px;
+  }
+.CreateBookingForm .form .row-2 .input-field .input-box .icon {
+   width: 500px;
+  height: 30px;
+}
+
+.CreateBookingForm .form .row-2 .input-box {
+    padding: 5px 0px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+/* Row 2  */
+
+
+/* Row 3  */
+
+.CreateBookingForm .form .row-3 {
+    display: flex;
+  }
+.CreateBookingForm .form .row-3 .input-field {
+    flex: 2;
+    padding-left: 10px;
+    width: 60%;
+}
+
+.CreateBookingForm .form .row-3 .input-field:nth-child(1) .input-box input {
+  width: 500px;
+  height: 100px;
+  padding-right: 500px;
+  margin-right: 35px;
+}
+
+
+.CreateBookingForm .form .row-3 .input-box {
+    
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.custom-button {
+  margin: 50px 50px;
+  padding: 10px 30px;
+  margin: 10px;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #007BFF; /* Blue color */
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  transition: background-color 0.3s;
+}
+.btn{
+  margin-top: 100px;
+ 
+}
+
+.custom-button:hover {
+  background-color: #0056b3; 
+}
